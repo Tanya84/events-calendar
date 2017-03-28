@@ -6,7 +6,7 @@
 
 html {
   box-sizing: border-box;
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -19,7 +19,7 @@ html {
 }
 
 td {
-  height: 6rem;
+  height: 10rem;
 }
 
 table,
